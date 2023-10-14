@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ismailhnd" target="blank"><img src="https://img.shields.io/twitter/follow/ismailhnd?logo=twitter&style=for-the-badge" alt="ismailhnd" /></a> </p>
 
-- 🔭 I’m currently working on [Analytics Dashboard](analytics.qrbring.com)
+- 🔭 I’m currently working on [Analytics Dashboard](https://analytics.qrbring.com)
 
 - 👨‍💻 All of my projects are available at [ismailhnd.engineer](ismailhnd.engineer)
 
